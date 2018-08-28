@@ -1,5 +1,5 @@
-/*Escriba un programa que lea dos enteros y determine si el primero es un múltiplo del segundo, y que
-imprima el resultado (Sugerencia: utilice el operador de módulo)*/
+/*Escriba un programa que lea dos enteros y determine si el primero es un mÃºltiplo del segundo, y que
+imprima el resultado (Sugerencia: utilice el operador de mÃ³dulo)*/
 #include <iostream>
 using namespace std;
 
