@@ -1,6 +1,6 @@
 /*Escriba un programa que calcule el precio del boleto de ida y vuelta en ferrocarriles, conociendo la distancia
-del viaje de ida y el tiempo de estancia. El precio por kilómetro es de $0.17. Se sabe además que si el número de
-días de estancia es superior a 7 y la distancia total (ida y vuelta) a recorrer es superior a 800 Km. el boleto tiene
+del viaje de ida y el tiempo de estancia. El precio por kilÃ³metro es de $0.17. Se sabe ademÃ¡s que si el nÃºmero de
+dÃ­as de estancia es superior a 7 y la distancia total (ida y vuelta) a recorrer es superior a 800 Km. el boleto tiene
 un descuento del 30%.*/
 #include <iostream>
 using namespace std;
